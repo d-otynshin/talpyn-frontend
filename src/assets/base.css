@@ -1,0 +1,17 @@
+:root {}
+
+@media (prefers-color-scheme: dark) {
+  :root {}
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  font-weight: normal;
+}
+
+body {
+  background-color: #8BC6EC;
+}
